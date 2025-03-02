@@ -49,6 +49,3 @@ A simple Windows Forms application for managing student records. This system all
 1. Clone this repository to your local machine.
 2. Open the solution file (`Chiayin_Yang_MidTerm.sln`) in Visual Studio.
 3. Build and run the application.
-
-```bash
-git clone https://github.com/yourusername/Student-Management-System.git
