@@ -1,0 +1,10 @@
+C:\Users\Chiayin\source\repos\Chiayin_Yang_MidTerm\Chiayin_Yang_MidTerm\bin\Debug\Chiayin_Yang_MidTerm.exe.config
+C:\Users\Chiayin\source\repos\Chiayin_Yang_MidTerm\Chiayin_Yang_MidTerm\bin\Debug\Chiayin_Yang_MidTerm.exe
+C:\Users\Chiayin\source\repos\Chiayin_Yang_MidTerm\Chiayin_Yang_MidTerm\bin\Debug\Chiayin_Yang_MidTerm.pdb
+C:\Users\Chiayin\source\repos\Chiayin_Yang_MidTerm\Chiayin_Yang_MidTerm\obj\Debug\Chiayin_Yang_MidTerm.csproj.AssemblyReference.cache
+C:\Users\Chiayin\source\repos\Chiayin_Yang_MidTerm\Chiayin_Yang_MidTerm\obj\Debug\Chiayin_Yang_MidTerm.Validate.resources
+C:\Users\Chiayin\source\repos\Chiayin_Yang_MidTerm\Chiayin_Yang_MidTerm\obj\Debug\Chiayin_Yang_MidTerm.Properties.Resources.resources
+C:\Users\Chiayin\source\repos\Chiayin_Yang_MidTerm\Chiayin_Yang_MidTerm\obj\Debug\Chiayin_Yang_MidTerm.csproj.GenerateResource.cache
+C:\Users\Chiayin\source\repos\Chiayin_Yang_MidTerm\Chiayin_Yang_MidTerm\obj\Debug\Chiayin_Yang_MidTerm.csproj.CoreCompileInputs.cache
+C:\Users\Chiayin\source\repos\Chiayin_Yang_MidTerm\Chiayin_Yang_MidTerm\obj\Debug\Chiayin_Yang_MidTerm.exe
+C:\Users\Chiayin\source\repos\Chiayin_Yang_MidTerm\Chiayin_Yang_MidTerm\obj\Debug\Chiayin_Yang_MidTerm.pdb
