@@ -1,4 +1,5 @@
 # Student Management System
+![Screenshot 2025-03-02 132712](https://github.com/user-attachments/assets/5922fdb4-609a-4624-829b-a20d5f76a07f)
 
 A simple Windows Forms application for managing student records. This system allows users to:
 
